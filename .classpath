@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/maria/Downloads/Hibernate/hibernate/libs_hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria/Downloads/Hibernate/hibernate/libs_hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria/Downloads/Hibernate/hibernate/libs_hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria/Downloads/Hibernate/hibernate/libs_hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria/Downloads/Hibernate/hibernate/libs_hibernate/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria/Downloads/Hibernate/hibernate/libs_hibernate/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria/Downloads/Hibernate/hibernate/libs_hibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria/Downloads/Hibernate/hibernate/libs_hibernate/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria/Downloads/Hibernate/hibernate/libs_hibernate/postgresql-9.4-1201.jdbc41.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria/Downloads/Hibernate/hibernate/libs_hibernate/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
